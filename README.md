@@ -1,2 +1,2 @@
 # Edutec_Iglea
-Conteúdos do curso Edutec Colegio Iglea
+Conteúdos do curso Edutech Colegio Iglea
